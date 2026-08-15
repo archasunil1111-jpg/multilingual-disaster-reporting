@@ -59,5 +59,18 @@ AI Disaster Analysis
 AI Recommendation
    ↓
 Submit Emergency Report
+
+Screenshots
+Disaster Reporting Interface
+
+The main interface allows users to submit disaster reports by providing disaster details, selecting a district, accessing emergency contacts, and viewing AI-assisted disaster analysis.
+
+Disaster Statistics
+
+The dashboard displays disaster statistics including severity distribution, district distribution, and disaster type distribution.
+
+Report Submission Confirmation
+
+The system provides a confirmation notification after successfully submitting an emergency report.
    ↓
 Report Confirmation
