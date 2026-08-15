@@ -54,6 +54,26 @@ Language Detection & Translation
 AI Disaster Analysis
    ↓
 AI Recommendation
+
+## Screenshots
+
+### Disaster Reporting Interface
+
+The main interface allows users to submit disaster reports by providing disaster details, selecting a district, accessing emergency contacts, and viewing AI-assisted disaster analysis.
+
+![Disaster Reporting Interface](screenshots/disaster-reporting-interface.png)
+
+### Disaster Statistics
+
+The dashboard displays disaster statistics including severity distribution, district distribution, and disaster type distribution.
+
+![Disaster Statistics](screenshots/disaster-statistics.png)
+
+### Report Submission Confirmation
+
+The system provides a confirmation notification after successfully submitting an emergency report.
+
+![Report Submission Confirmation](screenshots/report-submission.png)
    ↓
 Submit Emergency Report
    ↓
