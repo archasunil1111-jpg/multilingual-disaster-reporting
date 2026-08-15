@@ -69,7 +69,7 @@ Report Confirmation
 
 The main interface allows users to submit disaster reports by providing disaster details, selecting a district, accessing emergency contacts, and viewing AI-assisted disaster analysis.
 
-![Disaster Reporting Interface](screenshots/reporting-interface.png)
+![Disaster Reporting Interface](screenshots/disaster-reporting-interface.png)
 
 ### Disaster Statistics
 
@@ -81,7 +81,7 @@ The dashboard displays disaster statistics including severity distribution, dist
 
 The system provides a confirmation notification after successfully submitting an emergency report.
 
-![Report Submission Confirmation](screenshots/submission-confirmation.png)
+![Report Submission Confirmation](screenshots/report-submission.png)
 
 ## Future Improvements
 
