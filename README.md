@@ -1,98 +1,121 @@
 # Multilingual Disaster Reporting System
 
-## About the Project
-
-The **Multilingual Disaster Reporting System** is an emergency reporting web application designed to help users report disasters and emergency situations.
-
-The system allows users to select a disaster type, provide location and situation details, select the severity level, and submit emergency reports. It also supports multilingual reporting and provides AI-assisted disaster analysis and recommendations.
+A multilingual emergency reporting web application designed to support disaster and incident reporting through location details, severity information, multilingual input, AI-assisted analysis, emergency resources, and reporting dashboards.
 
 ## Features
 
-* Multilingual emergency reporting
-* Disaster type selection
-* Automatic language detection and translation
-* GPS-based location capture
-* District and location selection
-* Severity level selection
-* Emergency description
-* Photo and video reporting
-* AI disaster analysis
-* AI recommendations
-* Emergency contacts
-* Disaster guidelines
-* Weather warnings
-* Report submission confirmation
-* Disaster statistics and dashboard
+### Emergency Reporting
+- Select disaster type
+- Enter location and situation details
+- Select severity level
+- Capture GPS-based location
+- Select district and location information
+- Submit emergency reports
+- Upload photos and videos
 
-## Technologies Used
+### Multilingual Support
+- Detect input language
+- Translate reporting content
+- Support multilingual emergency communication
 
-### Frontend
+### AI-Assisted Analysis
+- Analyze submitted disaster information
+- Provide AI-assisted recommendations
+- Support emergency reporting with contextual information
 
-* React
-* TypeScript
+### Emergency Resources
+- Emergency contacts
+- Disaster guidelines
+- Weather warnings
+- Report submission confirmation
 
-### Backend
+### Dashboard & Analytics
+- Disaster statistics
+- Severity distribution
+- District distribution
+- Disaster-type distribution
 
-* Python
-* Flask
-* Node.js
+## Technologies
 
-### Database
+**Frontend**
+- React
+- TypeScript
+- CSS
 
-* MongoDB
+**Backend**
+- Python
+- Flask
+- Node.js
+
+**Database**
+- MongoDB
 
 ## Project Workflow
 
 ```text
 User
-   ↓
+  ↓
 Select Disaster Type
-   ↓
+  ↓
 Enter Location & Situation Details
-   ↓
+  ↓
 Select Severity
-   ↓
+  ↓
 Language Detection & Translation
-   ↓
-AI Disaster Analysis
-   ↓
+  ↓
+AI-Assisted Disaster Analysis
+  ↓
 AI Recommendation
-   ↓
+  ↓
 Submit Emergency Report
-   ↓
+  ↓
 Report Confirmation
+  ↓
+Dashboard & Statistics
 ```
 
 ## Screenshots
 
 ### Disaster Reporting Interface
 
-The main interface allows users to submit disaster reports by providing disaster details, selecting a district, accessing emergency contacts, and viewing AI-assisted disaster analysis.
+The main interface allows users to submit disaster reports by providing disaster details, selecting a district, accessing emergency contacts, and viewing AI-assisted analysis.
 
-![Disaster Reporting Interface](screenshots/disaster-reporting-interface.png)
+![Disaster Reporting Interface](screenshots/disaster-reporting.png)
 
 ### Disaster Statistics
 
-The dashboard displays disaster statistics including severity distribution, district distribution, and disaster type distribution.
+The dashboard displays disaster statistics including severity, district, and disaster-type distributions.
 
 ![Disaster Statistics](screenshots/disaster-statistics.png)
 
 ### Report Submission Confirmation
 
-The system provides a confirmation notification after successfully submitting an emergency report.
+The system provides confirmation after an emergency report is submitted.
 
-![Report Submission Confirmation](screenshots/report-submission.png)
+![Report Submission Confirmation](screenshots/report-confirmation.png)
+
+> Screenshots demonstrate the application interface and functionality.
+
+## Project Purpose
+
+The Multilingual Disaster Reporting System demonstrates how a web application can combine **multilingual communication, location-based reporting, AI-assisted analysis, emergency resources, and data visualization** for disaster-reporting workflows.
 
 ## Future Improvements
 
-* Real-time disaster alerts
-* Integration with government emergency services
-* Improved AI-based disaster classification
-* Real-time weather and disaster data
-* Mobile application support
-* Voice-based emergency reporting
-* Advanced disaster prediction and analytics
+- Real-time disaster alerts
+- Integration with government emergency services
+- Improved disaster classification
+- Real-time weather and disaster data
+- Mobile application support
+- Voice-based emergency reporting
+- Advanced disaster analytics
 
 ## Conclusion
 
-The Multilingual Disaster Reporting System provides a centralized platform for reporting and analyzing emergency situations. By combining multilingual support, GPS-based location services, AI-assisted analysis, emergency resources, and disaster statistics, the system aims to make emergency reporting faster, more accessible, and more informative.
+The project provides a centralized interface for submitting and analyzing emergency reports while combining multilingual support, location information, AI-assisted analysis, emergency resources, and dashboard-based statistics.
+
+## Author
+
+**Archa Sunil**
+
+GitHub: [archasunil1111-jpg](https://github.com/archasunil1111-jpg)
