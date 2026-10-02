@@ -5,6 +5,7 @@ A multilingual emergency reporting web application designed to support disaster 
 ## Features
 
 ### Emergency Reporting
+
 - Select disaster type
 - Enter location and situation details
 - Select severity level
@@ -14,22 +15,26 @@ A multilingual emergency reporting web application designed to support disaster 
 - Upload photos and videos
 
 ### Multilingual Support
+
 - Detect input language
 - Translate reporting content
 - Support multilingual emergency communication
 
 ### AI-Assisted Analysis
+
 - Analyze submitted disaster information
 - Provide AI-assisted recommendations
 - Support emergency reporting with contextual information
 
 ### Emergency Resources
+
 - Emergency contacts
 - Disaster guidelines
 - Weather warnings
 - Report submission confirmation
 
 ### Dashboard & Analytics
+
 - Disaster statistics
 - Severity distribution
 - District distribution
@@ -38,16 +43,19 @@ A multilingual emergency reporting web application designed to support disaster 
 ## Technologies
 
 **Frontend**
+
 - React
 - TypeScript
 - CSS
 
 **Backend**
+
 - Python
 - Flask
 - Node.js
 
 **Database**
+
 - MongoDB
 
 ## Project Workflow
@@ -80,7 +88,7 @@ Dashboard & Statistics
 
 The main interface allows users to submit disaster reports by providing disaster details, selecting a district, accessing emergency contacts, and viewing AI-assisted analysis.
 
-![Disaster Reporting Interface](screenshots/disaster-reporting.png)
+![Disaster Reporting Interface](screenshots/disaster-reporting-interface.png)
 
 ### Disaster Statistics
 
@@ -92,7 +100,7 @@ The dashboard displays disaster statistics including severity, district, and dis
 
 The system provides confirmation after an emergency report is submitted.
 
-![Report Submission Confirmation](screenshots/report-confirmation.png)
+![Report Submission Confirmation](screenshots/report-submission.png)
 
 > Screenshots demonstrate the application interface and functionality.
 
@@ -112,7 +120,7 @@ The Multilingual Disaster Reporting System demonstrates how a web application ca
 
 ## Conclusion
 
-The project provides a centralized interface for submitting and analyzing emergency reports while combining multilingual support, location information, AI-assisted analysis, emergency resources, and dashboard-based statistics.
+The Multilingual Disaster Reporting System provides a centralized interface for submitting and analyzing emergency reports while combining multilingual support, location information, AI-assisted analysis, emergency resources, and dashboard-based statistics.
 
 ## Author
 
